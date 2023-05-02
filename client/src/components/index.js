@@ -10,6 +10,7 @@ import Navbar from './Navbar'
 import SearchContainer from './SearchContainer'
 import SmallSidebar from './SmallSidebar'
 import StatsContainer from './StatsContainer'
+import GraphC from './GraphC'
 export {
   Logo,
   FormRow,
@@ -18,6 +19,7 @@ export {
   BigSidebar,
   SmallSidebar,
   FormRowSelect,
+  GraphC,
   SearchContainer,
   JobsContainer,
   StatsContainer,

@@ -16,6 +16,7 @@ const Stats = () => {
     <>
       <StatsContainer />
       {monthlyApplications.length > 0 && <ChartsContainer />}
+      <canvas id="myChart"></canvas>
     </>
   )
 }
